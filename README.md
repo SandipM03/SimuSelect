@@ -1,4 +1,8 @@
+# SimuSelect 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+A fully automated, web-based platform designed for conducting online interviews for enterprises and businesses.
+
+## I am currently working on this project.
 
 ## Getting Started
 
